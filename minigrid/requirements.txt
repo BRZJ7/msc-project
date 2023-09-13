@@ -1,0 +1,5 @@
+gymnasium==0.28.1
+minigrid==2.2.1
+pygame==2.4.0=pypi_0
+tensorboard==2.13.0=pypi_0
+torch==2.0.1=pypi_0
